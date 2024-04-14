@@ -1,4 +1,4 @@
-6 - Escreva uma função chamada conta_vogais que aceita uma string como parâmetro e retorna o número de vogais na string.
+#6 - Escreva uma função chamada conta_vogais que aceita uma string como parâmetro e retorna o número de vogais na string.
 def conta_vogais(string):
     """
     Conta o número de vogais em uma string.
