@@ -11,8 +11,8 @@ class Pessoa:
   def alterar_endereco(self, novo_endereco):
     self.endereco = novo_endereco
 
-pessoa = Pessoa("Fabianny", 17, "73 Recife")
+pessoa = Pessoa("Fernanda", 17, "73 Recife")
 
 pessoa.mostrar_endereco()
-pessoa.alterar_endereco("825 Janga")
+pessoa.alterar_endereco("825 Varzea")
 pessoa.mostrar_endereco()
